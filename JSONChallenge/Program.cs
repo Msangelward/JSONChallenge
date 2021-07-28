@@ -19,8 +19,6 @@ namespace JSONChallenge
 
             string json = JsonConvert.SerializeObject(person);
 
-            
-
             Console.WriteLine(json);
 
             Console.ReadKey();

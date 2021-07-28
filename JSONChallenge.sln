@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge_1_Convention", "C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge_2_BadgeID", "Challenge_2_BadgeID\Challenge_2_BadgeID.csproj", "{35C890D6-DF7E-457B-8AE6-00717355F434}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bonus_Challenge_Order", "Bonus_Challenge_Order\Bonus_Challenge_Order.csproj", "{88B2E387-603F-4635-9C4F-F595ABF7D742}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{35C890D6-DF7E-457B-8AE6-00717355F434}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35C890D6-DF7E-457B-8AE6-00717355F434}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35C890D6-DF7E-457B-8AE6-00717355F434}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88B2E387-603F-4635-9C4F-F595ABF7D742}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88B2E387-603F-4635-9C4F-F595ABF7D742}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88B2E387-603F-4635-9C4F-F595ABF7D742}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88B2E387-603F-4635-9C4F-F595ABF7D742}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
