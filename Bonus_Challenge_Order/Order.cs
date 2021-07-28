@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Bonus_Challenge_Order
 {
-    class Order
+    public class Order
     {
         public string OrderId { get; set; }
         public Customer Customer { get; set; }

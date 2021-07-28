@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Challenge_2_BadgeID
 {
-    class Badge
+    public class Badge
     {
         public int BadgeId { get; set; }
         public List<string> ListOfDoors { get; set; }

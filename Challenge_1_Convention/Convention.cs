@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Challenge_1_Convention
 {
-    class Convention
+    public class Convention
     {
 
         public DateTime StartDate { get; set; }

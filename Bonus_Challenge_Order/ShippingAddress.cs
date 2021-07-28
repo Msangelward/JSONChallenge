@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Bonus_Challenge_Order
 {
-    class ShippingAddress
+    public class ShippingAddress
     {
         public string AddressLine1 { get; set; }
         public string AddressLine2 { get; set; }
